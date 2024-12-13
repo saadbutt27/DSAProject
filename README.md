@@ -1,6 +1,7 @@
 # Data Structures and Algorithms Project
-<<<<<<< HEAD
-# Sudoku Game using Typescript
-=======
-# Sudoku Game
->>>>>>> master
+## Sudoku Game
+    - HTML
+    - CSS
+    - Typescript
+    - Data structure: Array 
+    - Recursion and Backtracking
